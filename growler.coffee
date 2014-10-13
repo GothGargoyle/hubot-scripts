@@ -34,6 +34,8 @@ module.exports = (robot) ->
 
         #
         # what's on at 33 acres brewing
+        # (the assumption here is that everything they pour is available for fills,
+        #  which has been a historically safe assumption)
         #
         #
         when "33", "33a", "33acres", "b33r"
