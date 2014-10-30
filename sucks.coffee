@@ -6,6 +6,8 @@
 #
 # Configuration:
 #   Replace 'when' blocks below with victim's username and desired responses
+#   (works best with in-jokes as responses, and a healthy dose of sensitivity
+#    about each victim's tolerance for abuse.)
 #
 # Commands:
 #   <person|place|thing> sucks - Display hubot's true feelings about the subject
